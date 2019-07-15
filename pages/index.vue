@@ -7,7 +7,7 @@
       <h2 class="subtitle">
         Product photography viewed in AR
       </h2>
-			<buttons/>
+			<buttons />
 		</div>
   </div>
 </template>
@@ -18,7 +18,8 @@ import Buttons from '~/components/Buttons.vue';
 
 export default {
   components: {
-    Logo
+    Logo,
+		Buttons,
   }
 }
 </script>

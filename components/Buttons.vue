@@ -1,8 +1,8 @@
 <template>
 	<div class="buttons">
-		<router-link tag="button" to="/hat">Hat</router-link>
-		<router-link tag="button" to="/tea">Tea</router-link>
 		<router-link tag="button" to="/t2">T2</router-link>
+		<router-link tag="button" to="/tea">Tea</router-link>
+		<router-link tag="button" to="/hat">Hat</router-link>
 	</div>
 </template>
 <script>
