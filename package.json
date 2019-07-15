@@ -1,0 +1,20 @@
+{
+  "name": "ar-photography",
+  "version": "1.0.0",
+  "description": "Product photography viewed in AR",
+  "author": "linnea.watson",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@google/model-viewer": "^0.5.0",
+    "nuxt": "^2.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.9"
+  }
+}
