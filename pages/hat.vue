@@ -2,7 +2,7 @@
 	<div>
 		<model-viewer
 			class="viewer"
-			src="assets/freshhat.gltf"
+			src="/assets/freshhat.gltf"
 			auto-rotate
 			camera-controls
 			ar>

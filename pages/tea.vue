@@ -2,7 +2,7 @@
 	<div>
 		<model-viewer
 			class="viewer"
-			src="assets/tea.glb"
+			src="/assets/tea.glb"
 			auto-rotate
 			camera-controls
 			ar>
